@@ -5,6 +5,7 @@ GET /flights/2
 
 Для запуска проекта требуется python 3 версии и flusk
 
+
 Для Mac OS их можно установить с помощью команд:
 
 brew install python3 
