@@ -8,8 +8,8 @@ GET /flights/2
 
 Для Mac OS их можно установить с помощью команд:
 
-brew install python3 
-sudo easy_install pip 
+brew install python3  
+sudo easy_install pip  
 pip install flask
 
 В актуальных дистрибутивах Ubuntu по умолчанию установлен Python 3, поэтому сразу переходим к установке pip и flusk-фреймворка:
